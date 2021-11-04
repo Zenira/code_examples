@@ -25,7 +25,7 @@ if(false) {
 /**
  * This class is used to add and update organization customization.
  *
- * @author       Lindsay Sauer <lindsay_sauer@amatrol.com>
+ * @author       Lindsay Sauer
  * @package      common
  * @subpackage   database
  * @version      1.0
@@ -33,7 +33,7 @@ if(false) {
 class Common_Site_Customization extends Common_Object {
 	
 	/**
-	 * @var boolean True if error messages should contain Amatrol administrator level detail.
+	 * @var boolean True if error messages should contain administrator level detail.
 	 * @access private
 	 */
 	protected $_adminLevelError;
